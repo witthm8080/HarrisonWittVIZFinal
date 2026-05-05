@@ -1,0 +1,14 @@
+{
+  "name": "@harrison-personal/american-natural-gas-citygate-basis-spread-visualization",
+  "main": "9fd3b331356c6567@150.js",
+  "version": "150.0.0",
+  "homepage": "https://observablehq.com/@harrison-personal/american-natural-gas-citygate-basis-spread-visualization",
+  "author": {
+    "name": "Harrison Personal",
+    "url": "https://observablehq.com/@harrison-personal"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
